@@ -17,4 +17,3 @@ module MyEnumerable
     filtered_arr
   end
 end
- 
