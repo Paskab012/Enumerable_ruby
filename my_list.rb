@@ -27,7 +27,7 @@ puts(list.all? { |e| e > 5 })
 # Test #any?
 puts(list.any? { |e| e == 2 })
 # true
-puts(print list.any? { |e| e == 5 })
+puts(print(list.any? { |e| e == 5 }))
 # false
 
 # Test #filter
